@@ -24,7 +24,7 @@ Trabalho com a área de dados desde 2019, descobrindo como os dados podem nos aj
 
 💻 Data Analyst & Business Intelligence - Group Software (04.2021 - Atual)
 
-💻 Customer Sucess Analyst (10.2019 - 12.2020)
+💻 Customer Sucess Analyst - Optivision (10.2019 - 12.2020)
 
 💻 Analista da Qualidade - Fivemax (06.2016 - 10.2019)
 
@@ -33,3 +33,7 @@ Trabalho com a área de dados desde 2019, descobrindo como os dados podem nos aj
 🗞️ Especialização em Enganharia da Qualidade - UniBF (2018 - 2019)
 
 🗞️ Gradução em Gestão da Qualidade - UNA (2012 - 2015)
+
+<!--
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafaelarc&show_icons=true)
+--!>
