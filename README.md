@@ -1,39 +1,29 @@
-### Olá, eu sou a Rafaela! 👋
+<h1 align="center">Olá, sou a Rafaela!  👋</h1>
 
-É um prazer ter você por aqui! Aproveite para conhecer um pouco da minha jornada.
+- 🔭 Atualmente estou trabalhando na **Group Software**
 
-Formação 📜
+- 🌱 Estou aprendendo sobre **Julia**
 
-Sou formada em Gestão da Qualidade pelo Centro Universitário UNA de Belo Horizonte, cidade onde nasci, cresci, estudei e onde moro atualmente. Em 2019 encerrei uma Pós-Graduação em Engenharia da Qualidade, foi neste momento que me apaixonei por estatística e dados. 
+- 👯 Eu procuro colaborar em projetos de **Ciência de Dados**
 
-Em 2022 iniciei uma nova aventura em busca da especialização em Data Science & Big Data. Estou sempre em constante aprendizado para me aprimorar e crescer profissionalmente entregando soluções baseadas em dados. 
+- 📝 Escrevo casualmente em [https://dev.to/rafaelarc](https://dev.to/rafaelarc)
 
-Profissional 🏢 
+- 💬 Me perguntem sobre **tecnologia, ciência de dados, carreira, games, etc**
 
-Trabalho com a área de dados desde 2019, descobrindo como os dados podem nos ajudar com insights, nas tomadas de decisões e predições nos negócios. Desde então passei por diferentes empresas e desafios, onde tive experiência em projetos de médio e grande porte envolvendo dados. Hoje sou Analista de Gestão e Business Intelligence na Group Software.
+- 📫 Fale comigo em **carvalho.rafaela@proton.me**
 
-**Skills:** SQL / Análise de dados / Python / Data Science / Machine Learning
+- 📄 Saiba mais sobre minhas experiências em [https://www.linkedin.com/in/rafaelarc/](https://www.linkedin.com/in/rafaelarc/)
 
-<div dir="auto"> 
-  <a href="https://instagram.com/rafaelarc" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
- 	<a href="https://www.twitch.tv/lelarc" rel="nofollow"><img src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/rafaelarc/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
-</div>
+- ⚡ Algumas curiosidades é que **adoro vídeo games, board games e RPG.**
 
-## Atuação Profissional
 
-💻 Data Analyst & Business Intelligence - Group Software (04.2021 - Atual)
+<h3 align="left">Conexões:</h3>
+<p align="left">
+<a href="https://dev.to/rafaelarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rafaelarc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafaelarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelarc" height="30" width="40" /></a>
+<a href="https://kaggle.com/rafaelarodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafaelarodrigues" height="30" width="40" /></a>
+</p>
 
-💻 Customer Sucess Analyst - Optivision (10.2019 - 12.2020)
 
-💻 Analista da Qualidade - Fivemax (06.2016 - 10.2019)
-
-## Formação Acadêmica
-
-🗞️ Especialização em Enganharia da Qualidade - UniBF (2018 - 2019)
-
-🗞️ Gradução em Gestão da Qualidade - UNA (2012 - 2015)
-
-<!--
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafaelarc&show_icons=true)
---!>
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
