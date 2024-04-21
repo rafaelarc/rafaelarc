@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Scientist and Business Intelligence</h3>
 
-- 🔭 Atualmente estou trabalhando na **Group Software**
+- 🔭 Atualmente estou trabalhando na **Reply**
 
 - 🌱 Estou aprendendo sobre **Julia e Javascript**
 
@@ -11,8 +11,6 @@
 - 📝 Escrevo casualmente em [https://dev.to/rafaelarc](https://dev.to/rafaelarc)
 
 - 💬 Me perguntem sobre **tecnologia, ciência de dados, carreira, games, etc**
-
-- 📫 Fale comigo em **carvalho.rafaela@proton.me**
 
 - 📄 Saiba mais sobre minhas experiências em [https://www.linkedin.com/in/rafaelarc/](https://www.linkedin.com/in/rafaelarc/)
 
