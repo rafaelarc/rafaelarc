@@ -1,16 +1,16 @@
 <h1 align="center">Olá, sou a Rafaela!  👋</h1>
 
-<h3 align="center">Data Scientist and Business Intelligence</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🔭 Atualmente estou trabalhando na **Reply**
 
-- 🌱 Estou aprendendo sobre **Julia e Javascript**
+- 🌱 Estou aprendendo sobre **PySpark**
 
-- 👯 Eu procuro colaborar em projetos de **Ciência de Dados**
+- 👯 Eu procuro colaborar em projetos de **Engenharia de Dados**
 
-- 📝 Escrevo casualmente em [https://dev.to/rafaelarc](https://dev.to/rafaelarc)
+- 📝 Escrevo casualmente em [Nerdático](https://nerdatico.com.br/)
 
-- 💬 Me perguntem sobre **tecnologia, ciência de dados, carreira, games, etc**
+- 💬 Me perguntem sobre **tecnologia, carreira, games, etc**
 
 - 📄 Saiba mais sobre minhas experiências em [https://www.linkedin.com/in/rafaelarc/](https://www.linkedin.com/in/rafaelarc/)
 
