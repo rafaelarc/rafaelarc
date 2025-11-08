@@ -2,10 +2,6 @@
 
 <h3 align="center">Data Engineer</h3>
 
-- 🔭 Atualmente estou trabalhando na **Reply**
-
-- 🌱 Estou aprendendo sobre **PySpark**
-
 - 👯 Eu procuro colaborar em projetos de **Engenharia de Dados**
 
 - 📝 Escrevo casualmente em [Nerdático](https://nerdatico.com.br/)
